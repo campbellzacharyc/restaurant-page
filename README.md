@@ -1,1 +1,1 @@
-# restaurant-page
+This is a JavaScript project using Webpack to build a Restaurant Page. It is part of The Odin Project cirriculum. 
