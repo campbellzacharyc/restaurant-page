@@ -1,3 +1,7 @@
+body {
+    background-color: #F0F8FF
+}
+
 #content {
     text-align: center;
 }
@@ -28,7 +32,7 @@ input {
 }
 
 input[type="submit"] {
-    background-color: #4CAF50;
+    background-color: black;
     color: white;
     font-size: 16px;
     padding: 10px;
@@ -39,4 +43,8 @@ input[type="submit"] {
 
 input[type="submit"]:hover {
     background-color: #45a049;
+}
+
+ul {
+    list-style-position: inside;
 }
