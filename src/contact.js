@@ -13,12 +13,12 @@ const createContactPage = () => {
 
     const addressInput = document.createElement('input');
     addressInput.type = 'text';
-    addressInput.placeholder = 'Enter address';
+    addressInput.placeholder = 'Enter email address';
     form.appendChild(addressInput);
 
     const phoneInput = document.createElement('input');
     phoneInput.type = 'text';
-    phoneInput.placeholder = 'Enter phone';
+    phoneInput.placeholder = 'Enter phone number';
     form.appendChild(phoneInput);
 
     const submitButton = document.createElement('input');
