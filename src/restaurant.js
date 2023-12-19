@@ -17,7 +17,7 @@ const createRestaurantHomePage = () => {
 
     // create and append copy 
     const copy = document.createElement('p');
-    copy.textContent = '"The most fascinatingly tasty spot for a tummy-filling encounter in France!" -Ludo';
+    copy.textContent = '"The most fascinatingly tasty spot for a tummy-filling encounter in France!" -Raphaël';
     pageContent.appendChild(copy);
     content.appendChild(pageContent);
 }
